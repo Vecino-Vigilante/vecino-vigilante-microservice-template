@@ -1,4 +1,4 @@
-# Vecino Vigilante microservice scaffolding
+# Vecino Vigilante microservice template
 
 A lightweight FastAPI scaffolding base to bootstrap App/API development
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 4. Run the server
 
 ```bash
-uvicorn src.main:app --reload
+uvicorn app.main:app --reload
 ```
 
 5. Check for API docs at:
